@@ -235,13 +235,7 @@ body::-webkit-scrollbar {
 
 /* BEGIN - contact us */
 #form{
-    
     background-color: black;
     color: white;
-}
-.form-control{
-    background-color: rgb(14, 14, 14) !important;
-    border: 1px rgb(24, 24, 24) solid;
-    color: white !important;
 }
 /* END - contact us */
